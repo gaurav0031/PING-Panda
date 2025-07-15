@@ -1,4 +1,4 @@
-# 🐼 PNG Panda Pulse Monitor
+# 🐼 PING Panda Pulse Monitor
 
 A DIY smartwatch-style project using ESP32, OLED, and a pulse sensor that monitors the user's heart rate and sends an **email alert** via SMTP2GO when the BPM (beats per minute) is **abnormally low or high** (outside 60–100 BPM).
 
